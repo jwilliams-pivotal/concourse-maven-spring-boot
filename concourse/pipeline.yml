@@ -3,7 +3,7 @@ resources:
     type: git
     source:
       uri: https://github.com/jwilliams-pivotal/concourse-maven-spring-boot.git
-      branch: master
+      branch: BBB
 
 jobs:
   - name: package
